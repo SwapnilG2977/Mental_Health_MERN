@@ -35,7 +35,7 @@ Please note that Sukoon is an ongoing project. Features and the technology stack
 Clone the project
 
 ```bash
-  git clone https://github.com/mansir04/MentalHealthMERN.git
+  https://github.com/SwapnilG2977/Mental_Health_MERN.git
 ```
 
 Go to the project directory
