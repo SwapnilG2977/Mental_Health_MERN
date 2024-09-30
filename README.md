@@ -27,9 +27,8 @@ Please note that Sukoon is an ongoing project. Features and the technology stack
 
 ## Authors
 
-- Vedant Dapolikar 
-- Omkar Deshmukh
-- Rohit Baviskar
+- SWAPNIL GAIKWAD
+- PRATHAMESH BHANGALE
 
 ## Run Locally
 
